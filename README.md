@@ -1,5 +1,5 @@
 
-# Leitor de Palavras em Arquivos de Texto
+# Análise comparativa de algoritmos com uso de paralelismo
 
 ## Descrição
 
@@ -29,21 +29,6 @@ AV3_CPC
 
 - Java JDK 8 ou superior instalado
 - IDE de sua preferência (IntelliJ, Eclipse, VSCode) ou terminal com javac e java
-
-### Execução via terminal
-
-1. Compile os arquivos:
-
-```bash
-javac -d bin src/*.java
-```
-
-2. Execute o programa:
-
-```bash
-cd bin
-java Main
-```
 
 ### Execução na IDE
 
